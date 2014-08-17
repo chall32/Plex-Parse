@@ -1,3 +1,12 @@
+Release v0.2 - 17 Aug 2014
+--------------------------
+* Fix - file path bug
+* New - "Added to Plex" Infomation Extract 
+* New - "Updated by Plex" Infomation Extract
+* New - "Last Viewed At" Information Extract
+* New - "Summary" Information Extract
+
+
 Release v0.1 - 15 Apr 2014
 --------------------------
 * Initial Release

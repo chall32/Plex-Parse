@@ -2,7 +2,7 @@ Plex-Parse
 ==========
 
 ## Plex Library to comma separated variables (.csv) file 
-Chris Hall 2010-2014 - [chall32.blogspot.com]
+Chris Hall & John Stallan 2010-2014 - [chall32.blogspot.com]
 
 ### What is Plex?
 [Plex] is a media player system and software suite consisting of a player applications and an associated media server that organises personal media stored on local devices
@@ -44,7 +44,7 @@ In this case my location id is 2
 
 ### [Click here to download latest version](https://github.com/chall32/plex-parse/blob/master/Plex-Parse.ps1?raw=true)
 
-If Plex-Parse helped you, how about buying me a beer? Use the donate button below. THANK YOU!
+If Plex-Parse helped you, how about buying us a beer? Use the donate button below. THANK YOU!
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KT462HRW7XQ3J)
 
